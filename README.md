@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:NITHYAA SRI S S
+### Register Number:212222230100
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
